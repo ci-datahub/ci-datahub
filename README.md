@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Chiamaka 👋
 
-<!--
-**ci-datahub/ci-datahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building data engineering projects focused on designing reliable data pipelines, databases, and analytics solutions.
 
-Here are some ideas to get you started:
+##  Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- Python
+- Data Modeling
+- ETL Pipelines
+- Cloud Data Engineering
+
+## Current Projects
+
+- US Agriculture SQL Analysis (SQLite)
+- More projects...
+
+## Interests
+
+Data Engineering • Cloud Platforms • Databases • Analytics • Distributed Data Systems
