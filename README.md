@@ -2,18 +2,30 @@
 
 I'm building data engineering projects focused on designing reliable data pipelines, databases, and analytics solutions.
 
-##  Currently working on
+## Currently working on
 
 - SQL
 - Python
+- PostgreSQL
 - Data Modeling
-- ETL Pipelines
+- ETL Development
 - Cloud Data Engineering
+
+## Featured Projects
+
+- Relational database design and SQL analytics
+- Business intelligence and customer analytics
+- Public health data analysis
+- Retail and business expansion analytics
 
 ## Current Projects
 
-- Building a modern data platform for an e-commerce business, including relational database design, SQL analytics, ETL pipelines, and cloud-based data engineering solutions.
+- I'm building a data platform for an e-commerce brand, covering relational database design, SQL analytics, ETL pipelines, and cloud-based data engineering workflows.
 
-## Interests
+## Career Interests
 
-Data Engineering • Cloud Platforms • Databases • Analytics • Distributed Data Systems
+Data Engineering • Database Systems • Cloud Platforms • ETL • Analytics Engineering
+
+
+
+
