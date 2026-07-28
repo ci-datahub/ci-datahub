@@ -12,7 +12,7 @@ I'm building data engineering projects focused on designing reliable data pipeli
 
 ## Current Projects
 
-- Building a modern data platform for an e e-commerce business, including relational database design, SQL analytics, ETL pipelines, and cloud-based data engineering solutions.
+- Building a modern data platform for an e-commerce business, including relational database design, SQL analytics, ETL pipelines, and cloud-based data engineering solutions.
 
 ## Interests
 
