@@ -1,30 +1,40 @@
 # Hi, I'm Chiamaka 👋
 
-I'm building data engineering projects focused on designing reliable data pipelines, databases, and analytics solutions.
+I'm an engineer with a background in Chemical Engineering, focused on Data Engineering and building reliable data pipelines, database systems, and analytics solutions for complex, data-intensive industries.
 
-## Currently working on
+## Currently Working With
 
-- SQL
 - Python
+- SQL
 - PostgreSQL
+- ETL Pipelines
+- REST APIs
 - Data Modeling
-- ETL Development
-- Cloud Data Engineering
+- Data Validation
+- Git & GitHub
 
 ## Featured Projects
 
-- Relational database design and SQL analytics
-- Business intelligence and customer analytics
-- Public health data analysis
-- Retail and business expansion analytics
+### EIA Energy Production Data Pipeline
 
-## Current Projects
+Built a Python ETL pipeline that extracts, transforms, validates, and analyzes U.S. crude oil and natural gas production data from the U.S. Energy Information Administration (EIA) API.
 
-- I'm building a data platform, covering relational database design, SQL analytics, ETL pipelines, and cloud-based data engineering workflows.
+- Extracted production data from multiple API endpoints
+- Built reusable functions for data extraction, cleaning, transformation, and loading
+- Implemented automated data-quality validation
+- Calculated year-over-year production trends
+- Produced an analysis-ready dataset and visualizations
+- Managed API credentials securely using environment variables
+
+**Tech:** Python • Pandas • REST API • Matplotlib • Git/GitHub
+
+### SQL & Database Projects
+
+Projects focused on relational database design, SQL querying, data analysis, and business problem-solving.
 
 ## Career Interests
 
-Data Engineering • Database Systems • Cloud Platforms • ETL • Analytics Engineering
+Data Engineering • Energy & Industrial Data • ETL & Data Pipelines • Database Systems • Cloud Data Engineering • Analytics Engineering
 
 
 
