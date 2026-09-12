@@ -2,7 +2,7 @@
 
 I'm a data and engineering professional with a background in Chemical Engineering, building reliable data pipelines and database solutions with Python, SQL, and PostgreSQL.
 
-My work focuses on transforming raw data into structured, validated, and analysis-ready datasets, with particular interest in energy, industrial, and other data-intensive systems.
+I enjoy working with complex datasets and building the pipelines and database systems that make them useful and reliable.
 
 ## Technical Focus
 
